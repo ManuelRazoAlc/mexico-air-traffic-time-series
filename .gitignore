@@ -1,0 +1,13 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Project package library and renv files (rebuilt by install_packages.R)
+.r-library/
+renv/
+.Rprofile
+
+# macOS
+.DS_Store
